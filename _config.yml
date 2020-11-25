@@ -29,7 +29,8 @@ url: "https://rapm-project.github.io" # the base hostname & protocol for your si
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+remote_theme: ubc-library-rc/rc-workshop-template
 plugins:
   - jekyll-feed
 
