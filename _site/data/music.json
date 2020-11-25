@@ -1,1 +1,1728 @@
-[]
+[
+  {
+    "id": "",
+    "date": "2009",
+    "pub_city": "Odense,Denmark",
+    "genre": "Hip-hop",
+    "affiliation": "Aarhus University,Denmark",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Bern,Switzerland",
+    "genre": "Jazz",
+    "affiliation": "Aarhus University,Denmark",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Amsterdam,Netherlands",
+    "genre": "Jazz",
+    "affiliation": "Aarhus University,Denmark",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Bologna,Italy",
+    "genre": "Jazz",
+    "affiliation": "Aarhus University,Denmark",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Amsterdam,Netherlands",
+    "genre": "Jazz",
+    "affiliation": "Aarhus University,Denmark",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2005",
+    "pub_city": "Aarhus,Denmark",
+    "genre": "Jazz",
+    "affiliation": "Aarhus University,Denmark",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2014",
+    "pub_city": "Lausanne,Switzerland",
+    "genre": "Jazz",
+    "affiliation": "Aarhus University,Denmark;Royal Academy of Music,Aarhu/Aalborg",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2007",
+    "pub_city": "Burlington,VT,United States",
+    "genre": "Jazz",
+    "affiliation": "deceased",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2009",
+    "pub_city": "Cambridge,United Kingdom;New York City,NY,United States",
+    "genre": "Rock",
+    "affiliation": "American University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2005",
+    "pub_city": "Phoenix,AZ,United States",
+    "genre": "Jazz",
+    "affiliation": "Florida State University",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1992",
+    "pub_city": "Leonhardstr,Austria",
+    "genre": "Jazz",
+    "affiliation": "Park School, Boston ",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2012",
+    "pub_city": "Waltham,MA,United States",
+    "genre": "Jazz",
+    "affiliation": "New England Conservatory",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "New Brunswick,NJ,United States",
+    "genre": "Popular music",
+    "affiliation": "Brown University",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "1976;1977;1978",
+    "pub_city": "Newark,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "California State University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2010",
+    "pub_city": "Cambridge,United Kingdom;New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "Canterbury Christ Church University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2002",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Rock",
+    "affiliation": "Syracuse University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2007",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Metal",
+    "affiliation": "City College of New York,The City University of New York",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2002",
+    "pub_city": "New Brunswick,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "City College of New York,The City University of New York",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2007",
+    "pub_city": "Upper Saddle River,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "City College of New York,The City University of New York",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2001",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "College of Staten Island,The City University of New York",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1997",
+    "pub_city": "Lewiston,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "University of California Santa Cruz",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2010",
+    "pub_city": "Knoxville,TN,United States",
+    "genre": "Rock",
+    "affiliation": "University of Kansas",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Rock",
+    "affiliation": "University of Kansas",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "1994",
+    "pub_city": "Oxford,United Kingdom;New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "Duke University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2004",
+    "pub_city": "Bowling Green,OH,United States",
+    "genre": "Rock",
+    "affiliation": "East Carolina University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "1996",
+    "pub_city": "Medfield,MA,United States",
+    "genre": "Jazz",
+    "affiliation": "East Tennessee State University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2000",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "Eastman School of Music",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2007",
+    "pub_city": "Chicago,IL,United States",
+    "genre": "Jazz",
+    "affiliation": "Mount Holyoke",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2003",
+    "pub_city": "Tallahassee,FL,United States",
+    "genre": "Electronic Dance Music",
+    "affiliation": "freelance/guitar instructor",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "1999",
+    "pub_city": "New Haven,CT,United States",
+    "genre": "Jazz",
+    "affiliation": "Davenport University",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2002",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "Harvard University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2010",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Jazz",
+    "affiliation": "Franklin & Marshall College",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Jazz",
+    "affiliation": "Franklin & Marshall College",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1999",
+    "pub_city": "Chicago,IL,United States",
+    "genre": "Rock",
+    "affiliation": "University of Memphis",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2001",
+    "pub_city": "St. Paul,MN,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Cambridge,MA,United States",
+    "genre": "Electronic Dance Music",
+    "affiliation": "Rice University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "2004",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1988",
+    "pub_city": "Indianapolis,IN,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2009",
+    "pub_city": "St. Paul,MN,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Elmhurst,IL,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1997",
+    "pub_city": "Leonhardstr,Austria",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "German",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Manhattan,KS,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1985",
+    "pub_city": "Helsinki,Finland",
+    "genre": "Jazz",
+    "affiliation": "deceased",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Van Nuys,CA,United States",
+    "genre": "Rock",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "1987",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2013",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1978",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1989",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1994",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2005",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2005",
+    "pub_city": "Washington,DC,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2005",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Rock",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2009;2010",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Rock",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Cambridge,MA,United States",
+    "genre": "Electronic Dance Music",
+    "affiliation": "Ramapo College",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "1990",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Rock",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "San Francisco,CA,United States",
+    "genre": "Metal",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2007",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Rock",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1975",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2012",
+    "pub_city": "Clifton,NJ,United States",
+    "genre": "Rock",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2002",
+    "pub_city": "New Brunswick,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2007",
+    "pub_city": "Redwood,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2013",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Metal",
+    "affiliation": "Full Sail University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2000",
+    "pub_city": "Lawrence,KS,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2004",
+    "pub_city": "Manhattan,KS,United States",
+    "genre": "Jazz",
+    "affiliation": "Hope College",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2004",
+    "pub_city": "Cambridge,United Kingdom;New York City,NY,United States",
+    "genre": "Rock",
+    "affiliation": "Hunter College,The City University of New York",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Rap",
+    "affiliation": "Indiana University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "2009",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Rap",
+    "affiliation": "Indiana University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "1982",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1981",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1984",
+    "pub_city": "Cambria Heights,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "Heidelberg College",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1994",
+    "pub_city": "New Brunswick,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/poet",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1981",
+    "pub_city": "Cambria Heights,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Massachusetts",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2014",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Rock",
+    "affiliation": "McGill University",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "1996",
+    "pub_city": "Durham,NC,United States",
+    "genre": "Rock",
+    "affiliation": "Minnesota State University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Cambridge,MA,United States",
+    "genre": "Jazz",
+    "affiliation": "New England Conservatory",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1995",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Rap",
+    "affiliation": "Brown University",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "2010",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Wisconsin-Madison",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2012",
+    "pub_city": "Palmerston North,New Zealand",
+    "genre": "Jazz",
+    "affiliation": "Victoria University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1971",
+    "pub_city": "Bowling Green,OH,United States",
+    "genre": "Rock",
+    "affiliation": "Oakland University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2013",
+    "pub_city": "Columbus,OH,United States",
+    "genre": "Rap",
+    "affiliation": "Ohio State University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "2014",
+    "pub_city": "Milwaukee,WI,United Sates",
+    "genre": "Rock",
+    "affiliation": "Ohio State University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "1999",
+    "pub_city": "Cambridge,United Kingdom;New York City,NY,United States",
+    "genre": "Rock",
+    "affiliation": "University of Rochester",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2000",
+    "pub_city": "New Brunswick,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2012",
+    "pub_city": "Needham,MA,United States",
+    "genre": "Jazz",
+    "affiliation": "Pace University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Nashville,TN,United States",
+    "genre": "Funk",
+    "affiliation": "Pomona College",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2003",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Rap",
+    "affiliation": "Princeton Theological Seminary",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "2014",
+    "pub_city": "Princeton,NJ,United States",
+    "genre": "Electronic Dance Music",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "1999",
+    "pub_city": "New Brunswick,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "Long Island University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1989",
+    "pub_city": "Cambridge,United Kingdom;New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Huddersfield",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1994",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1995",
+    "pub_city": "Rochester,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "Temple University",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Zürich,Switzerland",
+    "genre": "Jazz",
+    "affiliation": "Temple University",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1997",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Metal",
+    "affiliation": "Texas A&M University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2000",
+    "pub_city": "Cambridge,United Kingdom;New York City,NY,United States",
+    "genre": "Rap",
+    "affiliation": "deceased",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "1990",
+    "pub_city": "Cambria Heights,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1995",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Rap",
+    "affiliation": "Case Western Reserve University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "2012",
+    "pub_city": "Santa Cruz,CA,United States",
+    "genre": "Rock",
+    "affiliation": "Ohio State University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "2005",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Electronic Dance Music",
+    "affiliation": "Max-Planck-Institut für Bildungsforschung",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "2012",
+    "pub_city": "Newark,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Massachusetts",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2013",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Massachusetts",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2009",
+    "pub_city": "Cincinnati,OH,United States",
+    "genre": "Rock",
+    "affiliation": "Ball State University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1996",
+    "pub_city": "New Brunswick,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Colorado Boulder",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1996",
+    "pub_city": "Medfield,MA,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Colorado Boulder",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2001",
+    "pub_city": "New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Colorado Boulder",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Oxford,United Kingdom;New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Colorado Boulder",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1995",
+    "pub_city": "Gainesville,FL,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1990",
+    "pub_city": "Gainesville,FL,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Athens,GA,United States",
+    "genre": "Rock",
+    "affiliation": "University of Virginia",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "1995",
+    "pub_city": "Houston,TX,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Oxford,United Kingdom;New York City,NY,United States",
+    "genre": "Electronic Dance Music",
+    "affiliation": "University of Illinois at Chicago",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Chicago,IL,United States",
+    "genre": "Jazz",
+    "affiliation": "Marshall University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Chicago,IL,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Chicago,IL,United States",
+    "genre": "Rock",
+    "affiliation": "Wabash College",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2000",
+    "pub_city": "Liège,Belgium",
+    "genre": "Jazz",
+    "affiliation": "University of Jyväskylä,Finland",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Lawrence,KS,United States",
+    "genre": "Rock",
+    "affiliation": "University of Kansas",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "2003",
+    "pub_city": "Bowling Green,OH,United States",
+    "genre": "Rock",
+    "affiliation": "University of Kentucky",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2002",
+    "pub_city": "Oakland,CA,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Melbourne",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2007",
+    "pub_city": "Miami,FL,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Miami,FL,United States",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2004",
+    "pub_city": "Seattle,WA,United States",
+    "genre": "Jazz",
+    "affiliation": "University of New Mexico",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1999",
+    "pub_city": "New Brunswick,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Chapel Hill,NC,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2005",
+    "pub_city": "Cambridge,United Kingdom;New York City,NY,United States",
+    "genre": "Rock",
+    "affiliation": "University of Arizona",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2001",
+    "pub_city": "Greely,CO,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2012",
+    "pub_city": "Greely,CO,United States",
+    "genre": "Jazz",
+    "affiliation": "Texas Tech University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2000",
+    "pub_city": "Greely,CO,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Norman,OK,United States",
+    "genre": "Jazz",
+    "affiliation": "Marshall University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1997",
+    "pub_city": "New Brunswick,NJ,United States",
+    "genre": "Jazz",
+    "affiliation": "deceased",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Hillsdale,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "deceased",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Middletown,CT,United States",
+    "genre": "Funk",
+    "affiliation": "University of Oslo,Norway",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2009",
+    "pub_city": "Montreal,Canada",
+    "genre": "Jazz",
+    "affiliation": "University of Ottawa",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2001",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Electronic Dance Music",
+    "affiliation": "Northwestern University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "2005",
+    "pub_city": "Cambridge,United Kingdom;New York City,NY,United States",
+    "genre": "Electronic Dance Music",
+    "affiliation": "Northwestern University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "2006",
+    "pub_city": "Bloomington,IN,United States",
+    "genre": "Electronic Dance Music",
+    "affiliation": "Northwestern University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "2010",
+    "pub_city": "Philadelphia,PA,United States",
+    "genre": "Jazz",
+    "affiliation": "Wesleyan University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "2009",
+    "pub_city": "Pittsburgh,PA,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Minnesota Morris",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1992",
+    "pub_city": "Westport,CT,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Redlands",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1994",
+    "pub_city": "Oxford,United Kingdom;New York City,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "University of Leeds",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Hattiesburg,MS,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Sydney,Australia",
+    "genre": "Jazz",
+    "affiliation": "freelance/artist",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2012",
+    "pub_city": "Melbourne,Australia",
+    "genre": "Electronic Dance Music",
+    "affiliation": "University of Tasmania, Australia",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "EDM"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Toronto,ON,Canada",
+    "genre": "Jazz",
+    "affiliation": "MacEwan University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2007",
+    "pub_city": "Burlington,VT,United States",
+    "genre": "Popular music",
+    "affiliation": "University of Maryland Baltimore",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2008",
+    "pub_city": "Cambridge,United Kingdom;New York City,NY,United States",
+    "genre": "Rock",
+    "affiliation": "University of North Carolina at Chapel Hill",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rock & Metal"
+  },
+
+  {
+    "id": "",
+    "date": "2003",
+    "pub_city": "Seattle,WA,United States",
+    "genre": "Rock",
+    "affiliation": "University of Washington",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1999",
+    "pub_city": "Seattle,WA,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2012",
+    "pub_city": "Seattle,WA,United States",
+    "genre": "Jazz",
+    "affiliation": "Central Washington University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "1981",
+    "pub_city": "Manhattan,KS,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2007",
+    "pub_city": "Seattle,WA,United States",
+    "genre": "Jazz",
+    "affiliation": "Highline College",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2010",
+    "pub_city": "Columbus,OH,United States",
+    "genre": "Rap",
+    "affiliation": "University of Waterloo",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Rap & Hip Hop"
+  },
+
+  {
+    "id": "",
+    "date": "1996",
+    "pub_city": "New Haven,CT,United States",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "female",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2009",
+    "pub_city": "Hillsdale,NY,United States",
+    "genre": "Jazz",
+    "affiliation": "Yale University",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Toronto,ON,Canada",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2010",
+    "pub_city": "Toronto,ON,Canada",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  },
+
+  {
+    "id": "",
+    "date": "2011",
+    "pub_city": "Toronto,ON,Canada",
+    "genre": "Jazz",
+    "affiliation": "",
+    "gender": "male",
+    "language": "English",
+    "source_genre": "Funk & Jazz"
+  }
+]

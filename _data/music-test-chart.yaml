@@ -1,0 +1,29 @@
+---
+-
+    id: test1
+    date: 2003
+    freq: 1
+-
+    id: test2
+    date: 2007
+    freq: 2
+-
+    id: Vuust_2008_Listen up! Polyrhythms in brain and music
+    date: 2008
+    freq: 1
+-
+    id: Pedersen_2009_Anticipation and delay as micro-rhythm and gesture in hip hop aesthetics
+    date: 2009
+    freq: 1
+-
+    id: test3
+    date: 2010
+    freq: 1
+-
+    id: test4
+    date: 2011
+    freq: 3
+-
+    id: anotherOne
+    date: 2013
+    freq: 5
