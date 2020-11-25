@@ -1,0 +1,15 @@
+---
+layout: none
+---
+[{% for chart in site.data.music %}
+  {
+    "id": "{{ chart.id }}",
+    "date": "{{ chart.date }}",
+    "pub_city": "{{ chart.place-of-publication }}",
+    "genre": "{{ chart.style }}",
+    "affiliation": "{{ chart.current-affiliation-author-primary-1 }}",
+    "gender": "{{ chart.Gender }}",
+    "language": "{{ chart.Language }}",
+    "source_genre": "{{ chart.source-genre-folder }}"
+  }{% if forloop.last == false %},{% endif %}
+{% endfor %}]
