@@ -1,6 +1,6 @@
---- 
+---
 layout: default
- ---
+---
 
 <head>
   <h3>DC.js Dashboard Using YAML and Jekyll</h3>
